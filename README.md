@@ -1211,14 +1211,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Qdrant**: For efficient vector database operations
 - **NumPy**: For numerical computing support
 
-## Support
-
-For support and questions:
-- Create an issue on GitHub
-- Check the documentation
-- Review existing issues and discussions
-
----
-
-**Video Frame Analyzer** - Empowering video analysis with modern AI and vector search capabilities.
-
